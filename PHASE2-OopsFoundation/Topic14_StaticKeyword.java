@@ -147,7 +147,7 @@ public class Topic14_StaticKeyword {
         
         
         System.out.println("\n==========================================");
-        System.out.println("   TOPIC 14 COMPLETE! 🎯");
+        System.out.println("   TOPIC 14 COMPLETE! ");
         System.out.println("==========================================");
     }
 }
