@@ -28,16 +28,16 @@ This repository contains my complete Java learning journey from beginner to adva
 - ✅ Topic 12: Access Modifiers
 - ✅ Topic 13: Methods
 - ✅ Topic 14: Static Keyword
-- 🔄 Topic 15: This Keyword
-- ⏳ Topic 16: Constructors
-- ⏳ Topic 17: Arrays
-- ⏳ Topic 18: Strings
-- ⏳ Topic 19: Wrapper Classes
-- ⏳ Topic 20: Packages
+- ✅Topic 15: This Keyword
+- ✅ Topic 16: Constructors
+- ✅ Topic 17: Arrays
+- ✅ Topic 18: Strings
+- ✅ Topic 19: Wrapper Classes
+- ✅ Topic 20: Packages
 
 ### ⏳ PHASE 3 - OOPs ADVANCED (Topics 21-28)
-- ⏳ Topic 21: OOPs Introduction
-- ⏳ Topic 22: Encapsulation
+- ✅ Topic 21: OOPs Introduction
+- ✅Topic 22: Encapsulation
 - ⏳ Topic 23: Inheritance
 - ⏳ Topic 24: Polymorphism
 - ⏳ Topic 25: Abstraction
